@@ -1,4 +1,4 @@
-# flutter_assignments
+# studyFlowFlutterApp
 
 A new Flutter project.
 
